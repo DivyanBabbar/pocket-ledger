@@ -1,0 +1,4 @@
+id,date,type,category,description,cents
+1,2026-01-01,income,Work,Part-time work,125000
+2,2026-01-03,expense,Food,Lunch,8500
+3,2026-01-04,expense,Transport,Metro card,3200
